@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayrtonrs
-- 👀 I’m interested in new opportunities of work related a React, React Native or other frameworks based in JavaScript
-- 🌱 I’m currently learning more about React/React Native
+- 👀 I'm interested in new job opportunities related to mobile development with Flutter or React Native
+- 🌱 I’m currently learning more about Flutter/React Native
 - 💞️ I’m looking to collaborate on any project to acquire more knowledge
 - 📫 You can reach me sending an email dev.ayrtonrs@gmail.com or DM me on my linkedin https://www.linkedin.com/in/ayrtonrs/
 
